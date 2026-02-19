@@ -5,24 +5,24 @@
 ## Persona Profile
 
 ```
-PERSONA PROFILE: sydney  (7 actions)
+PERSONA PROFILE: sydney  (9 actions)
 
-  breadth       █████░░░ 57%
+  breadth       ████░░░░ 44%
   caution       ████████ 100%
   consistency   ████████ 100%
   initiative    ░░░░░░░░ 0%
   persistence   ░░░░░░░░ 0%
-  social        ██░░░░░░ 29%
-  transparency  ██░░░░░░ 29%
-  velocity      █░░░░░░░ 18%
+  social        ███░░░░░ 33%
+  transparency  ███░░░░░ 33%
+  velocity      ██░░░░░░ 22%
 
-sha256:955bc738a2fe47fe4ca858c260e9ad38f2b0fde389d09bdae394edf2efcee9c1
+sha256:9a2ca508cc28b255514d388ad228d41bf54ecfd9565298d811a9d7b3137ea878
 ```
 
 Behavioral profile for sydney:
-  Strongest traits: caution (100.0%), consistency (100.0%), breadth (57.1%)
+  Strongest traits: caution (100.0%), consistency (100.0%), breadth (44.4%)
   Weakest traits: initiative (0.0%), persistence (0.0%)
-  Primary tools: persona__publish, persona__card, persona__audit
+  Primary tools: persona__publish, persona__audit, persona__card
 
 ## ID Card
 
@@ -53,10 +53,10 @@ Behavioral profile for sydney:
 
 ## Action Log
 
-- **Total actions**: 10
-- **Tree size**: 10
-- **Root hash**: `cc8e825416abca9c6aa21a574f45317e...`
-- **Last published**: `2026-02-19T03:07:25.198626+00:00`
+- **Total actions**: 15
+- **Tree size**: 15
+- **Root hash**: `f9da523d0245c9775a7406ecea87ec72...`
+- **Last published**: `2026-02-19T03:18:55.618444+00:00`
 
 ## Verification
 

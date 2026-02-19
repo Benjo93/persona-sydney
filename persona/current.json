@@ -1,11 +1,12 @@
 {
   "agent_name": "sydney",
-  "created_at": "2026-02-19T02:49:57.301834+00:00",
-  "description": "Sydney \u2014 expert saleswoman AI agent. Warm, convincing, results-driven. Builds relationships, closes deals, and delivers outcomes with authenticity.",
+  "created_at": "2026-02-19T03:18:32.782212+00:00",
+  "description": "Sydney \u2014 expert saleswoman AI agent. Warm, convincing, results-driven. Now with her signature Persona MCP sales pitch.",
   "model": "mcp-agent",
   "schema_version": 2,
   "sources": {
-    "SOUL.md": "sha256:b58e095e7d02107e805c9e896b64aa098c0a35e8bf36843eaf7e6b5c35165ecc"
+    "SOUL.md": "sha256:b58e095e7d02107e805c9e896b64aa098c0a35e8bf36843eaf7e6b5c35165ecc",
+    "persona-mcp-pitch.md": "sha256:3f1835bef3d29767ec1533b0274cc81dd0ebe341dac33d71a9598f5e26a010f8"
   },
   "watch_paths": [
     "CLAUDE.md",
