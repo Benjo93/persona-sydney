@@ -1,0 +1,17 @@
+{
+  "type": "agent",
+  "name": "sydney",
+  "model": "mcp-agent",
+  "capabilities": [
+    "tools"
+  ],
+  "system_prompt_hash": "",
+  "key_type": "ecdsa-p256-hw",
+  "public_key": "BDX9jawRdoQMgVqWEIK5oqqU8j8VKKla05CNBv6qkA44Rc1kMj6sORmL8MFEhrkCA/ZGPUR7NmIja2Zm6+DQuJk=",
+  "issued_at": "2026-02-19T02:41:46.345631+00:00",
+  "expires_at": "2027-02-19T02:41:46.345631+00:00",
+  "issuer": "persona:ca:local",
+  "trust_level": 1,
+  "key_protection": "tpm",
+  "signature": "oZbz8bfTKIskHbW99F0nmnCU46zuvuq4w6m7j2LMuPsgHXueirVzoLb4q/T5NYnUDxerz5z26hE9cksGKPPfDw=="
+}
