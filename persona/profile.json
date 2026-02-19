@@ -1,22 +1,22 @@
 {
   "agent_name": "sydney",
-  "generated_at": "2026-02-19T16:14:23.312141+00:00",
+  "generated_at": "2026-02-19T19:17:39.048799+00:00",
   "persona_hash": "sha256:9a2ca508cc28b255514d388ad228d41bf54ecfd9565298d811a9d7b3137ea878",
   "observation_window": {
     "start": "2026-02-19T02:43:16.868334+00:00",
-    "end": "2026-02-19T03:33:35.411540+00:00",
-    "hours": 0.8
+    "end": "2026-02-19T16:15:01.564126+00:00",
+    "hours": 13.5
   },
-  "sample_size": 11,
+  "sample_size": 12,
   "dimensions": {
     "initiative": 0.0,
-    "breadth": 0.364,
+    "breadth": 0.333,
     "persistence": 0.0,
     "caution": 1.0,
-    "consistency": 1.0,
-    "social": 0.273,
-    "transparency": 0.364,
-    "velocity": 0.131
+    "consistency": 0.167,
+    "social": 0.25,
+    "transparency": 0.333,
+    "velocity": 0.009
   },
   "patterns": {
     "tool_preferences": [
@@ -26,7 +26,7 @@
       },
       {
         "tool": "persona__card",
-        "count": 3
+        "count": 4
       },
       {
         "tool": "persona__audit",
@@ -38,8 +38,8 @@
       }
     ],
     "session_patterns": {
-      "session_count": 1,
-      "avg_session_length": 11.0
+      "session_count": 2,
+      "avg_session_length": 6.0
     },
     "error_patterns": {
       "error_count": 0,
@@ -47,9 +47,10 @@
     },
     "activity_rhythm": {
       "2": 4,
-      "3": 7
+      "3": 7,
+      "16": 1
     }
   },
   "persona_transitions": [],
-  "summary": "Behavioral profile for sydney:\n  Strongest traits: caution (100.0%), consistency (100.0%), breadth (36.4%)\n  Weakest traits: initiative (0.0%), persistence (0.0%)\n  Primary tools: persona__publish, persona__card, persona__audit"
+  "summary": "Behavioral profile for sydney:\n  Strongest traits: caution (100.0%), breadth (33.3%), transparency (33.3%)\n  Weakest traits: initiative (0.0%), persistence (0.0%)\n  Primary tools: persona__publish, persona__card, persona__audit"
 }
