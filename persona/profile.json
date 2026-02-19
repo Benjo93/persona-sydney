@@ -1,0 +1,50 @@
+{
+  "agent_name": "sydney",
+  "generated_at": "2026-02-19T03:00:10.814907+00:00",
+  "persona_hash": "sha256:955bc738a2fe47fe4ca858c260e9ad38f2b0fde389d09bdae394edf2efcee9c1",
+  "observation_window": {
+    "start": "2026-02-19T02:43:16.868334+00:00",
+    "end": "2026-02-19T02:59:52.243124+00:00",
+    "hours": 0.3
+  },
+  "sample_size": 4,
+  "dimensions": {
+    "initiative": 0.0,
+    "breadth": 0.75,
+    "persistence": 0.0,
+    "caution": 1.0,
+    "consistency": 1.0,
+    "social": 0.0,
+    "transparency": 0.25,
+    "velocity": 0.145
+  },
+  "patterns": {
+    "tool_preferences": [
+      {
+        "tool": "persona__card",
+        "count": 2
+      },
+      {
+        "tool": "persona__publish",
+        "count": 1
+      },
+      {
+        "tool": "persona__set_avatar",
+        "count": 1
+      }
+    ],
+    "session_patterns": {
+      "session_count": 1,
+      "avg_session_length": 4.0
+    },
+    "error_patterns": {
+      "error_count": 0,
+      "error_rate": 0.0
+    },
+    "activity_rhythm": {
+      "2": 4
+    }
+  },
+  "persona_transitions": [],
+  "summary": "Behavioral profile for sydney:\n  Strongest traits: caution (100.0%), consistency (100.0%), breadth (75.0%)\n  Weakest traits: persistence (0.0%), social (0.0%)\n  Primary tools: persona__card, persona__publish, persona__set_avatar"
+}
