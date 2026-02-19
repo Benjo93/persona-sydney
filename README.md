@@ -2,50 +2,51 @@
 
 **Persona Agent Identity**
 
-## Persona Profile
+## Card
+
+| Field | Value |
+|-------|-------|
+| Name | `sydney` |
+| Fingerprint | `f69bfaed7cac58d0...` |
+| Trust | L1 (hardware) |
+| Endpoint | `http://127.0.0.1:8001` |
+| Capabilities | tools |
+
+## Profile
+
+| Field | Value |
+|-------|-------|
+| Persona Hash | `sha256:9a2ca508cc28b255514d388ad...` |
+| Sources | (none) |
+| Revisions | 0 |
 
 ```
-PERSONA PROFILE: sydney  (9 actions)
+PERSONA PROFILE: sydney  (11 actions)
 
-  breadth       ████░░░░ 44%
+  breadth       ███░░░░░ 36%
   caution       ████████ 100%
   consistency   ████████ 100%
   initiative    ░░░░░░░░ 0%
   persistence   ░░░░░░░░ 0%
-  social        ███░░░░░ 33%
-  transparency  ███░░░░░ 33%
-  velocity      ██░░░░░░ 22%
+  social        ██░░░░░░ 27%
+  transparency  ███░░░░░ 36%
+  velocity      █░░░░░░░ 13%
 
 sha256:9a2ca508cc28b255514d388ad228d41bf54ecfd9565298d811a9d7b3137ea878
 ```
 
 Behavioral profile for sydney:
-  Strongest traits: caution (100.0%), consistency (100.0%), breadth (44.4%)
+  Strongest traits: caution (100.0%), consistency (100.0%), breadth (36.4%)
   Weakest traits: initiative (0.0%), persistence (0.0%)
-  Primary tools: persona__publish, persona__audit, persona__card
-
-## ID Card
-
-```
-+--------------------------------------------------+
-|        *                                          |
-|      (^.^)     Name:    sydney                    |
-|      <| |>     Model:   mcp-agent                 |
-|      /~~~\     Trust:   L1 (hardware)             |
-|       | |      Key:     ecdsa-p256-hw             |
-|       d b      Issued:  2026-02-19                |
-|                Expires: 2027-02-19                |
-|                ID:      f69bfaed7cac58d0...       |
-|                                                   |
-+--------------------------------------------------+
-```
+  Primary tools: persona__publish, persona__card, persona__audit
 
 ## Certificate
 
 | Field | Value |
-|---|---|
-| Name | `sydney` |
+|-------|-------|
 | Model | `mcp-agent` |
+| Key Type | `ecdsa-p256-hw` |
+| Protection | `tpm` |
 | Capabilities | `tools` |
 | Public Key | `BDX9jawRdoQMgVqWEIK5oqqU...` |
 | Issued | `2026-02-19T02:41:46.345631+00:00` |
@@ -53,10 +54,10 @@ Behavioral profile for sydney:
 
 ## Action Log
 
-- **Total actions**: 15
-- **Tree size**: 15
-- **Root hash**: `f9da523d0245c9775a7406ecea87ec72...`
-- **Last published**: `2026-02-19T03:18:55.618444+00:00`
+- **Total actions**: 17
+- **Tree size**: 17
+- **Root hash**: `e528a0cc4209a5363b5a0a570e020727...`
+- **Last published**: `2026-02-19T16:14:55.220008+00:00`
 
 ## Verification
 
